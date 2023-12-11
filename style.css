@@ -51,7 +51,7 @@ main {
 .mid-section {
     display: flex;
     flex-direction: column;
-    gap: 25px;
+    gap: 24px;
 }
 
 .title-section {
@@ -109,19 +109,19 @@ img {
     max-width: 100%;
 }
 
-.grid-cyan {
+.cyan {
     border-top: solid 3.5px var(--color-primary-cyan);
 }
 
-.grid-red {
+.red {
     border-top: solid 3.5px var(--color-primary-red);
 }
 
-.grid-orange {
+.orange {
     border-top: solid 3.5px var(--color-primary-orange);
 }
 
-.grid-blue {
+.blue {
     border-top: solid 3.5px var(--color-primary-blue);
 }
 
@@ -138,7 +138,7 @@ img {
         gap: 30px;
     }
 
-    .car {
+    .card {
         margin: 0;
         padding: 2rem;
         min-width: 350px;
