@@ -109,7 +109,7 @@ img {
     max-width: 100%;
 }
 
-.grid-blue {
+.grid-cyan {
     border-top: solid 3.5px var(--color-primary-cyan);
 }
 
@@ -121,7 +121,7 @@ img {
     border-top: solid 3.5px var(--color-primary-orange);
 }
 
-.grid-navy {
+.grid-blue {
     border-top: solid 3.5px var(--color-primary-blue);
 }
 
